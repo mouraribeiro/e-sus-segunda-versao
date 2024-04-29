@@ -6,7 +6,7 @@
 
 
 ## Via Docker
-docker compose up
+docker-compose up
 
 
 ## Endpoints
